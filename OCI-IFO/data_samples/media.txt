@@ -1,0 +1,13 @@
+{
+  "_id": ObjectId("56993b2d1d41c8155edcc182"),
+  "original_website_url": "http://www.nationalpost.com",
+  "organisation_type": "media",
+  "wiki_url": "http://en.wikipedia.org/wiki/National_Post",
+  "dbpedia_url": "http://dbpedia.org/resource/National_Post",
+  "organisation": "National Post",
+  "avgcirculation": "92212.666666666666667",
+  "redirected_website_url": "http://www.nationalpost.com/index.html",
+  "scraped_on": NumberInt(1452882733),
+  "dbpedia_owner": "http://dbpedia.org/resource/Postmedia_Network",
+  "owner": "Postmedia Network Canada Corporation"
+}

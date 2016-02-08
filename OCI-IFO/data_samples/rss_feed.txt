@@ -1,0 +1,8 @@
+{
+  "_id": ObjectId("56aa81491d41c866f058a0dc"),
+  "rss_url": "http://www.chroniclejournal.com/search/?c%5B%5D=news%2Flocal%2Cnews%2Flocal%2F%2A&d=&d1=&d2=&f=rss&l=100&nsa=eedition&q=&s=start_time&sd=desc&t=article",
+  "language": "en",
+  "valid_rss": NumberInt(1),
+  "scraped_on": NumberInt(1454014793),
+  "media_url": "http://www.chroniclejournal.com/"
+}
