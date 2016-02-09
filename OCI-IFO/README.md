@@ -24,7 +24,7 @@ Feel free to modify the queries as you wish. You may want to check out the folde
 
 ### for the php fans
 
-*Requirements
+* Requirements
  * a web server (tested on Apache)
  * PHP (tested on 5.5.9)
  * mongodb php driver (https://docs.mongodb.org/ecosystem/drivers/php/)
