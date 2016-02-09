@@ -20,7 +20,7 @@ The Information Flow Observatory is a research group dedicated to media studies 
  * type : python name_of_script.py
 
 The output will show up in your terminal. To write the output to a file, edit the script and uncomment the lines "save output to file".
-Feel free to modify the queries as you wish. In order to do so, you may want to check the folder data_samples in order to understand how the database is structured.
+Feel free to modify the queries as you wish. You may want to check out the folder "data_samples" in order to understand how the database is structured.
 
 ### for the php fans
 
@@ -36,7 +36,7 @@ Feel free to modify the queries as you wish. In order to do so, you may want to 
 
 Optionnaly, you may try this script live on our server at http://www.oci-ifo.org/oci_php_scripts/articles_by_keywords.php. You may also copy the output to http://jsonviewer.stack.hu/. It provides a nice tool that makes it easy to visualize JSON data.
 
-Again, feel free to modify the queries as you wish. In order to do so, you may want to check the folder data_samples in order to understand how the database is structured.
+Again, feel free to modify the queries as you wish. You may want to check out the folder "data_samples" in order to understand how the database is structured.
  
 
 
