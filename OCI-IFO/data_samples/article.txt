@@ -1,0 +1,14 @@
+{
+  "_id": ObjectId("56b782be1d41c83ce0c7010b"),
+  "author": "Jon Azpiri",
+  "title": "2-year-old girl in Langley dies in ‘tragic accident’",
+  "full_article": "<p>A two-year-old girl who was found in a Langley pond has died.</p><p>Neighbours, RCMP and search and rescue crews scoured an area around Robertson Crescent early Saturday evening for signs of the girl after she was reported missing. Shortly after 7 p.m., they discovered the girl in a pond they had drained.</p><p>She was rushed to hospital in grave condition. RCMP said she has since passed away.</p><p>Police described the incident as a “tragic accident” and said there were no signs of foul play.</p><p>No names have been released.</p><p class=\"story-ad align-middle\"></p>",
+  "in_drupal": false,
+  "language": "en",
+  "media_url": "http://globalnews.ca/",
+  "original_article_url": "http://globalnews.ca/news/2502837/2-year-old-girl-in-langley-dies-in-tragic-accident/",
+  "published_date": "Sun, 07 Feb 2016 17:35:42 +0000",
+  "redirected_article_url": "http://globalnews.ca/news/2502837/2-year-old-girl-in-langley-dies-in-tragic-accident/",
+  "rss_url": "http://globalnews.ca/bc/feed/",
+  "scraped_on": NumberInt(1454867134)
+}
