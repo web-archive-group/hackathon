@@ -34,7 +34,7 @@ Feel free to modify the queries as you wish. You may want to check out the folde
  * type in the url http://yourwebserver.com/path/to/file/articles_by_keywords.php
  * The output is a valid JSON file
 
-Optionnaly, you may try this script live on our server at http://www.oci-ifo.org/oci_php_scripts/articles_by_keywords.php. You may also copy the output to http://jsonviewer.stack.hu/. It provides a nice tool that makes it easy to visualize JSON data.
+Optionally, you may try this script live on our server at http://www.oci-ifo.org/oci_php_scripts/articles_by_keywords.php. You may also copy the output to http://jsonviewer.stack.hu/. It provides a nice tool that makes it easy to visualize JSON data.
 
 Again, feel free to modify the queries as you wish. You may want to check out the folder "data_samples" in order to understand how the database is structured.
  
