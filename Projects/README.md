@@ -12,7 +12,7 @@ They have a GitHub repository [here](https://github.com/oduwsdl/ipwb) that provi
 
 They have a slidedeck, available [here in this repository](https://github.com/web-archive-group/hackathon/blob/master/Projects/Canadian-Politics_NUAGES.pdf). 
 
-## Kim Pham, Kyle Parry, Kyle Parry, and Niel Chah - "I-know-words-and-images"
+## Kim Pham, Kyle Parry, Emily Maemura, and Niel Chah - "I-know-words-and-images"
 
 They have a GitHub repository [here](https://github.com/nchah/i-know-words-and-images).
 
