@@ -18,4 +18,4 @@ They have a GitHub repository [here](https://github.com/nchah/i-know-words-and-i
 
 ## Alexander Nwala, Allison Hegel, Federico Nanni, Jonathan Armoza, Kelsey Utne, Nick Ruest, Yu Xu - "Tracking Discourse on Social Media"
 
-They have a slidedeck, available [here as a Google Slides presentation](https://docs.google.com/presentation/d/1Q6vZdLbOS98kRLQv3hPQeXj77jO-PGdPN_CzupWOYGA/edit#slide=id.p). 
+They have a slidedeck, available [here as a Google Slides presentation](https://docs.google.com/presentation/d/1Q6vZdLbOS98kRLQv3hPQeXj77jO-PGdPN_CzupWOYGA/edit#slide=id.p). Alternatively, a [PDF version is available here as well](https://github.com/web-archive-group/hackathon/blob/master/Projects/Tracking%20Discourse%20on%20Social%20Media.pdf).
