@@ -1,5 +1,13 @@
 # Project Links
 
+## Helge Holzmann, Jaspreet Singh, Vinay Goel - Searching, Mining Everything
+
+This project enhanced [Archive Spark](https://github.com/helgeho/ArchiveSpark).
+
+## Richard Rath, Todd Suomela, Kathrine Cook, and Evan Light - First Nations Representations and Government Data
+
+This project looked at how First Nations were represented as well as government data questions more generally.
+
 ## Shane Martin, Eric Oosenbrug, and Jeremy Wiebe - GraphX enhancements for Warcbase.
 
 They have a GitHub repository [here](https://github.com/shamrt/link-structure) that provides insight on the D3.js side of the project
